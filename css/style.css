@@ -103,7 +103,7 @@ video {
         margin-top: -800px;
         padding-left: 900px;
 }
-
+/**Estilo de san valentin**/
 .febt {
     position: absolute;
     color: white;
@@ -118,7 +118,7 @@ video {
 }
 
 .febtex {
-    margin-right: 350px;
+    margin-right: 350%;
 }
 
 .febtexto {
