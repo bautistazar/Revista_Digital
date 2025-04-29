@@ -106,21 +106,22 @@ video {
 /**Estilo de san valentin**/
 .febt {
     position: absolute;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 2em;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     text-align: center;
     margin-top: -700px;
-    font-size: 18px;
+    font-size: 17px;
     margin-left: 715px;
     text-align: justify;
-    
+    font-weight: bold;
 }
 
 .febtex {
-    margin-right: 35%;
+    margin-right: 350px;
+    margin-top: 100px;
 }
 
 .febtexto {
-    margin-right: 50px;
+    margin-right: 80px;
 }
